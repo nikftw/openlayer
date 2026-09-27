@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: OpenLayer
+## Notes: Current layer, a layer list, and a clearer shard-move notice. /layerme
+## Version: 1.0.0
+## Author: OpenLayer
+## SavedVariables: OpenLayerDB
+
+openlayer.lua
